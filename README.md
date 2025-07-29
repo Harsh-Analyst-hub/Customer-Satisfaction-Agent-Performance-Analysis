@@ -41,25 +41,25 @@ This project is an **Excel-based dashboard and analysis** built to assess the pe
 ---
 ✅ Recommendations
 Invest in Full Training Programs
-Full training leads to 100% satisfaction rates—indicating a strong ROI on comprehensive training. Companies should prioritize structured onboarding and refresher sessions.
+* Full training leads to 100% satisfaction rates—indicating a strong ROI on comprehensive training. Companies should prioritize structured onboarding and refresher sessions.
 
 Monitor Minimally Trained Agents
-Agents with only minimal training perform moderately well (~70% satisfaction). Regular follow-ups and mentoring could help them reach full potential.
+* Agents with only minimal training perform moderately well (~70% satisfaction). Regular follow-ups and mentoring could help them reach full potential.
 
 Redistribute Workload
-Regular employees handle the most cases. Consider balancing workload across employee levels to reduce burnout and improve efficiency.
+* Regular employees handle the most cases. Consider balancing workload across employee levels to reduce burnout and improve efficiency.
 
 Prioritize High-Impact Cases
-With over 1,200 high-priority cases, it's essential to assign experienced agents to these cases for quicker resolution and higher satisfaction.
+* With over 1,200 high-priority cases, it's essential to assign experienced agents to these cases for quicker resolution and higher satisfaction.
 
 Use Performance Metrics in HR Decisions
-Leverage the satisfaction and resolution performance data for agent appraisals, promotions, and targeted coaching.
+* Leverage the satisfaction and resolution performance data for agent appraisals, promotions, and targeted coaching.
 
 Introduce KPI-based Dashboards
-Replicate and automate this dashboard monthly to track trends and make data-driven decisions in real-time.
+* Replicate and automate this dashboard monthly to track trends and make data-driven decisions in real-time.
 
 Link Satisfaction Scores with Customer Feedback
-Integrate qualitative feedback from reviews or surveys to identify common customer pain points and resolve them at the root.
+* Integrate qualitative feedback from reviews or surveys to identify common customer pain points and resolve them at the root.
 
 -----
 
